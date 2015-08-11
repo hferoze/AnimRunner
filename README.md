@@ -1,5 +1,5 @@
 # AnimRunner
-Android Game Development using Android Animation and Graphics - Part 1
+Android Game Development using Android Animation and Graphics
 
 # License
 Copyright (c) 2015 Hassan Feroze
